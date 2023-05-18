@@ -41,10 +41,6 @@ body {
     margin: 10px;
   }
 
-  p {
+  .emoji p {
     order: 3;
-  }
-
-  .siteheader {
-    margin: 10px;
   }
